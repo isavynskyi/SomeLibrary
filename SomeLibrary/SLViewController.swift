@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SLViewController.swift
 //  SomeLibrary
 //
 //  Created by Igor Savynskyi on 9/9/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SLViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
