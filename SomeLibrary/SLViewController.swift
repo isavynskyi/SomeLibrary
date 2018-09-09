@@ -12,6 +12,7 @@ class SLViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Submodule did update")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
